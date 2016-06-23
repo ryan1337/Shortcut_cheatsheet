@@ -1,6 +1,6 @@
 td
 {
-  border: 1px black solid;
+  border: 5px black solid;
 }
 
 table
@@ -8,6 +8,7 @@ table
   border-collapse: collapse;
   text-align: center;
   margin: auto;
+  font-family: cursive;
 }
 
 body
@@ -26,4 +27,20 @@ body
 th
 {
   text-decoration: underline;
+  border: 5px black solid;
+}
+h1
+{
+  text-align: center;
+  font-family: cursive;
+}
+
+.cmd
+{
+  background-color: rgb(0, 72, 131);
+}
+
+td
+{
+  background-color: rgb(136, 163, 255);
 }
