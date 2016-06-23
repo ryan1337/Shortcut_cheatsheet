@@ -29,7 +29,9 @@ th
 {
   text-decoration: underline;
   border: 5px black solid;
+  height: 50px;
 }
+
 h1
 {
   text-align: center;
