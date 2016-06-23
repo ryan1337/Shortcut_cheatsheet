@@ -18,4 +18,12 @@ body
 .linux
 {
   max-width: 15%;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+th
+{
+  text-decoration: underline;
 }
