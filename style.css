@@ -14,3 +14,8 @@ body
 {
   background-image: url(bg-patterns-01.png);
 }
+
+.linux
+{
+  max-width: 15%;
+}
