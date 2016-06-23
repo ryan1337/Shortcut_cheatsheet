@@ -9,6 +9,7 @@ table
   text-align: center;
   margin: auto;
   font-family: cursive;
+  margin-top: 50px;
 }
 
 body
@@ -43,4 +44,12 @@ h1
 td
 {
   background-color: rgb(136, 163, 255);
+}
+
+@media all and (max-width: 1024px)
+{
+  .linux
+        {
+          display: none;
+        }
 }
