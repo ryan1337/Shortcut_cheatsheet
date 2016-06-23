@@ -9,3 +9,8 @@ table
   text-align: center;
   margin: auto;
 }
+
+body
+{
+  background-image: url(bg-patterns-01.png);
+}
